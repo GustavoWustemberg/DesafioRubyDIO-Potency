@@ -1,6 +1,6 @@
 # <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> DesafioRubyDIO
 
-The objective of the challenge was to create a program in the Ruby language that outputs the user's full name and age.
+The objective of the challenge was to create a program in the Ruby language that uses the mathematical function potency.
 
 ## Didactics:
 You need to create a simple reader access program
